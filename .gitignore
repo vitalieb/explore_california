@@ -1,10 +1,8 @@
-# comment
 tempfile.txt
-tempfile2.txt
 *.zip
 *.gz
+log/*.log
 log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
-# Do not ignore videos in this directory
 !assets/videos/tour_*.mp4
